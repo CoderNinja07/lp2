@@ -1,0 +1,27 @@
+Object manager:
+	-new obj
+	-allow seaarch
+
+fields & Relationships:
+	-new->text->required->next->next->save
+	-new->number->required->next->next->save
+
+Home:
+	-App manager->New Lightning app->next->next->add utility item->rich text->add utility item->recent items->next
+	->opportunities->next->system administrator->save & finish
+
+home:
+	-tabs 
+	-custom objects tab->new->next->next->save
+
+home:
+	-lightning app builder->new->learners_app_page->next->next->finish
+	-rich text->recent item->report chart->save->activation->save
+
+App launcher:
+	-personalize ur nav bar
+	-add more items->learners_app_page->save
+	-learner->add new.... add as many as u want
+
+
+	
